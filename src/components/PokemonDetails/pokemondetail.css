@@ -1,0 +1,33 @@
+.pokemon-detail-conainer{
+    display: flex;
+    justify-content: center;
+}
+.pokemon-name{
+    font-size: 25px;
+    font-variant:initial;
+    letter-spacing: 10px;
+    font-variant: small-caps;
+    margin-top: 50px;
+    text-align: center;
+
+
+}
+.pokemon-image{
+height: 300px;
+width: 200px;
+}
+.pokemon-height{
+    margin-top: 20px;
+    font-size: 19px;
+   text-align: center;
+}
+.pokemon-weight{
+    margin-top: 20px;
+    font-size: 19px;
+    text-align: center;
+}
+.pokemon-id{
+    margin-top: 20px;
+    font-size: 19px;
+    text-align: center;
+}

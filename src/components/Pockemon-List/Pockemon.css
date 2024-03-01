@@ -1,0 +1,27 @@
+/* .pokemon-list{
+text-align: center;
+margin-top: 20px;
+} */
+.pokomen-container{
+    margin-top: 30px;
+    display: flex;
+    /* justify-content: center; */
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    gap: 30px;
+   
+}
+.btn1{
+  height: 35px; 
+  width: 70px; 
+}
+.btn2{
+    height: 35px; 
+    width: 70px; 
+  }

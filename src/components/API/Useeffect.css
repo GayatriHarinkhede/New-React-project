@@ -1,0 +1,12 @@
+
+
+input{
+    height: 60px;
+    width: 600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    text-align: center;
+    margin-top: 20px;
+}
